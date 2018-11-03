@@ -1,7 +1,7 @@
 Addressbook Tutorial
 ====================
 
-This change should be polled in by Jenkins at any time
+This change should be polled in by Jenkins at any time of the day
 One more dummychange
 Add some dummy change - 3_Jul
 ted - not an example on how application should be
